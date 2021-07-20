@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "368724929472",
+    "project_id": "noobchat-f2028",
+    "storage_bucket": "noobchat-f2028.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368724929472:android:1029adfe2a2c77ac537625",
+        "android_client_info": {
+          "package_name": "com.example.noobchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368724929472-gprul2csq2udcl9ssrfk3jt4n84q38vm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.noobchat",
+            "certificate_hash": "b0a030e6abbae843e2ba46a25044cb531341cf70"
+          }
+        },
+        {
+          "client_id": "368724929472-4ijvn4lsgjb36p34f7hpilvles9980p1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5IQiAgExQ3-Y5V0pk1ZGo9n1Ekl0TNXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368724929472-4ijvn4lsgjb36p34f7hpilvles9980p1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
