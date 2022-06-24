@@ -14,7 +14,7 @@
 * Home page
 ![WhatsApp Image 2022-06-24 at 3 07 15 PM](https://user-images.githubusercontent.com/72460532/175511308-52ee04ca-e2ba-47e0-b7eb-52e57fc5db28.jpeg)
 * Conversation page
-#![WhatsApp Image 2022-06-24 at 3 07 12 PM](https://user-images.githubusercontent.com/72460532/175511374-33cb6a6b-615d-4490-9f9c-e5fb500ce530.jpeg)
+* ![WhatsApp Image 2022-06-24 at 3 07 12 PM](https://user-images.githubusercontent.com/72460532/175511374-33cb6a6b-615d-4490-9f9c-e5fb500ce530.jpeg)
 * People page, to see all people and add or delete friends
 ![WhatsApp Image 2022-06-24 at 3 07 14 PM (2)](https://user-images.githubusercontent.com/72460532/175511472-b5ac0c90-ab93-4d73-8386-8a1efc7305aa.jpeg)
 * Blogs page
@@ -24,5 +24,4 @@
 * Blog creation page
 ![WhatsApp Image 2022-06-24 at 3 07 13 PM (1)](https://user-images.githubusercontent.com/72460532/175511777-5f37326b-4cfd-446b-8527-7a64e49a782f.jpeg)
 
-Created by Sai Ashrritth Pantnana and Balla Prem Sai Nikhil.
-This project has been uploaded to github after doing most of the work required in local machine by both of the contributers as they live in the same place and then uploaded through a single machine
+Created by Sai Ashrritth Patnana.
